@@ -1,0 +1,13 @@
+{
+	"name": "dockerizing-nodejs-web-app",
+	"version": "1.0.0",
+	"description": "Dockerizing a Node.js web app - https://nodejs.org/en/docs/guides/nodejs-docker-webapp/",
+	"author": "Jonas Allen <Hello@JonasAllen.Codes>",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.16.1"
+	}
+}
